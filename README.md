@@ -14,6 +14,7 @@ This is a guide to help maximize the opportunity to go off-island (to the US) th
     - [Financial Aid](#financial-aid)
     - [Local Scholarships](#local-scholarships)
     - [National Scholarships](#national-scholarships)
+    - [Fly-ins](#fly-ins)
 
 
 ## About the Authors
@@ -65,3 +66,6 @@ Please help contribute to this guide so more talented students from Guam can tak
 - Wells Fargo Academic Leaders
 - Horatio Alger
 - Dell (by Upward Bound)
+
+### Fly-ins
+- Case Western Reserve

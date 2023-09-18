@@ -1,4 +1,4 @@
-# Takeoff Guide (Guam)
+# Take off Guide (Guam)
 
 This is a guide to help maximize the opportunity to go off-island (to the US) through high school academic opportunities. This is meant for high achieving public school students of any income level from Guam. It IS POSSIBLE for you to go off-island without having money.
 

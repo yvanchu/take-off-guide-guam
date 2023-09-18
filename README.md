@@ -96,3 +96,4 @@ Fly-ins are basically a free field trips where a college flies you to go see the
 
 - [ ] TODO: link more relevant information
 - [ ] consider linking to college prep materials like SAT prep
+- [ ] Micro-optimization once you get that offer like airline points, credit cards, and personal finance to make it work.

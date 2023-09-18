@@ -1,6 +1,6 @@
 # Takeoff Guide (Guam)
 
-This is a guide to help maximize the opportunity to go off-island (to the US) through high school academic opportunities. This is meant for mostly public school students of any income level from Guam. 
+This is a guide to help maximize the opportunity to go off-island (to the US) through high school academic opportunities. This is meant for high achieving public school students of any income level from Guam. It IS POSSIBLE for you to go off-island without having money.
 
 ### Table of Content
 - [Takeoff Guide (Guam)](#takeoff-guide-guam)
@@ -29,13 +29,39 @@ I am currently a software engineer at Microsoft, and I am a class of 2019 alumni
 Please help contribute to this guide so more talented students from Guam can takeoff their college career!
 
 ## Opportunities within JFK
+- JROTC
+  - Drill Teams
+  - Specialized Teams (Quiz bowl, Cyber Security, Marksmanship, etc.)
+- Close Up
 
 ## Summer Programs
+- JSA
+- ESP by UW Madision
+- SAMS by Carnegie Mellon
+- Bovard Scholars by USC
+- MITES by MIT
 
 ## Scholarships
 
 ### Financial Aid
+- How much do you actually need to go off island?
+- Explaining the ecosystem
 
 ### Local Scholarships
+- Dr Shieh's
+- Charlie Corn Scholarship by SAME
+- Core Tech Scholarship
 
 ### National Scholarships
+- National Merit
+- Gates
+- QuestBridge
+- Elks
+- Jack Kent Cooke
+- Burger King
+- APIASF
+- Lockheed Martin
+- GE Reagan
+- Wells Fargo Academic Leaders
+- Horatio Alger
+- Dell (by Upward Bound)
